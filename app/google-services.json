@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463060780832",
+    "project_id": "login-database-55833",
+    "storage_bucket": "login-database-55833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463060780832:android:064642630aa93174043945",
+        "android_client_info": {
+          "package_name": "com.example.logindatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463060780832-nrnmnik7bmpga615so34tthr37nsptbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrpKMo7a3KXPeTYhRku4toE6NI0TrtnmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463060780832-nrnmnik7bmpga615so34tthr37nsptbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
